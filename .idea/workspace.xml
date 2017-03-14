@@ -6,906 +6,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c304be19-963c-4603-91b3-6477ec5de5cb" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dictionaries/shane.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS584/Text_Clustering/shanes_kmeans.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS584/Text_Clustering_Iris/iris_main" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/cs674_hw1(1).pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/dtw.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/dtw_playing_around.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/hw1_datasets/dataset1/test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/hw1_datasets/dataset1/test_labels.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/hw1_datasets/dataset1/test_normalized.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/hw1_datasets/dataset1/train.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/hw1_datasets/dataset1/train_labels.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/hw1_datasets/dataset1/train_normalized.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/hw1_datasets/dataset2/test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/hw1_datasets/dataset2/test_labels.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/hw1_datasets/dataset2/test_normalized.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/hw1_datasets/dataset2/train.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/hw1_datasets/dataset2/train_labels.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/hw1_datasets/dataset2/train_normalized.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/hw1_datasets/dataset3/test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/hw1_datasets/dataset3/test_labels.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/hw1_datasets/dataset3/test_normalized.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/hw1_datasets/dataset3/train.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/hw1_datasets/dataset3/train_labels.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/hw1_datasets/dataset3/train_normalized.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/hw1_datasets/dataset4/test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/hw1_datasets/dataset4/test_labels.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/hw1_datasets/dataset4/test_normalized.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/hw1_datasets/dataset4/train.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/hw1_datasets/dataset4/train_labels.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/hw1_datasets/dataset4/train_normalized.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/hw1_datasets/dataset5/test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/hw1_datasets/dataset5/test_labels.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/hw1_datasets/dataset5/test_normalized.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/hw1_datasets/dataset5/train.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/hw1_datasets/dataset5/train_labels.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/hw1_datasets/dataset5/train_normalized.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/hw1_main.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/process_data.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results0855.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results0903.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results0905.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results0921.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results0923.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results0924.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results0925.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results0944.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results0945.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results0949.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results1000.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results1150.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results2155.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results2204.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results2215.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results2221.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results_dataset1_1155.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results_dataset1_1156.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results_dataset1_1234.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results_dataset1_1238.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results_dataset1_1248.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results_dataset1_1250.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results_dataset1_1308.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results_dataset1_1511.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results_dataset1_1542.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results_dataset1_1559.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results_dataset1_1603.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results_dataset1_1606.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results_dataset1_1638.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results_dataset1_1824.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results_dataset1_1837.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results_dataset1_1840.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results_dataset2_1837.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results_dataset2_1840.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results_dataset3_1837.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results_dataset3_1840.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results_dataset4_1838.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results_dataset4_1841.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/test_output/test_results_dataset5_1853.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/testing_code.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW1_TimeSeries/timeseries_kNN.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/BagOfPatterns.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/GetTime.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/ToSAX.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_True_sax_w4_nb5_v5.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w10_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w10_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w10_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w10_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w10_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w10_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w10_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w10_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w10_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w10_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w10_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w10_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w14_nb10_v3.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w14_nb10_v5.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w14_nb5_v3.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w14_nb5_v5.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w15_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w15_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w15_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w15_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w15_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w15_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w15_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w15_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w15_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w15_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w15_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w15_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w20_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w20_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w20_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w20_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w20_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w20_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w20_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w20_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w20_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w20_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w20_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w20_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w25_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w25_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w25_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w25_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w25_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w25_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w25_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w25_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w25_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w25_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w25_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w25_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w4_nb10_v3.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w4_nb10_v5.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w4_nb5_v3.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w4_nb5_v5.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w5_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w5_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w5_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w5_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w5_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w5_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w5_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w5_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w5_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w5_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w5_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_test_sax_w5_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w10_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w10_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w10_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w10_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w10_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w10_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w10_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w10_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w10_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w10_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w10_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w10_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w14_nb10_v3.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w14_nb10_v5.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w14_nb5_v3.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w14_nb5_v5.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w15_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w15_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w15_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w15_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w15_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w15_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w15_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w15_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w15_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w15_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w15_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w15_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w20_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w20_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w20_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w20_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w20_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w20_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w20_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w20_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w20_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w20_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w20_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w20_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w25_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w25_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w25_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w25_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w25_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w25_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w25_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w25_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w25_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w25_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w25_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w25_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w4_nb10_v3.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w4_nb10_v5.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w4_nb5_v3.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w4_nb5_v5.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w5_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w5_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w5_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w5_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w5_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w5_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w5_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w5_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w5_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w5_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w5_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset1_train_sax_w5_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset2_test_sax_w4_nb5_v3.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset2_train_sax_w4_nb5_v3.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset3_test_sax_w4_nb5_v3.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset3_train_sax_w4_nb5_v3.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset4_test_sax_w4_nb5_v3.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset4_train_sax_w4_nb5_v3.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset5_test_sax_w4_nb5_v3.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/SAX/dataset5_train_sax_w4_nb5_v3.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/SAX/test_sax_w4_nb5_v3.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/SAX/train_sax_w4_nb5_v3.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_labels.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_normalized.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w10_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w10_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w10_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w10_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w10_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w10_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w10_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w10_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w10_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w10_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w10_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w10_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w15_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w15_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w15_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w15_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w15_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w15_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w15_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w15_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w15_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w15_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w15_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w15_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w20_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w20_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w20_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w20_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w20_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w20_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w20_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w20_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w20_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w20_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w20_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w20_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w25_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w25_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w25_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w25_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w25_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w25_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w25_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w25_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w25_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w25_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w25_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w25_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w4_nb5_v5.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w5_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w5_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w5_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w5_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w5_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w5_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w5_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w5_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w5_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w5_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w5_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/test_sax_w5_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_labels.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_normalized.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w10_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w10_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w10_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w10_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w10_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w10_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w10_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w10_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w10_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w10_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w10_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w10_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w15_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w15_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w15_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w15_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w15_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w15_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w15_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w15_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w15_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w15_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w15_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w15_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w20_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w20_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w20_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w20_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w20_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w20_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w20_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w20_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w20_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w20_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w20_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w20_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w25_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w25_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w25_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w25_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w25_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w25_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w25_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w25_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w25_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w25_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w25_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w25_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w4_nb5_v5.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w5_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w5_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w5_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w5_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w5_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w5_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w5_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w5_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w5_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w5_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w5_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset1/train_sax_w5_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_labels.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_normalized.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w10_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w10_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w10_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w10_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w10_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w10_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w10_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w10_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w10_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w10_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w10_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w10_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w15_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w15_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w15_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w15_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w15_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w15_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w15_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w15_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w15_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w15_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w15_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w15_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w20_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w20_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w20_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w20_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w20_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w20_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w20_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w20_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w20_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w20_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w20_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w20_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w25_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w25_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w25_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w25_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w25_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w25_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w25_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w25_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w25_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w25_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w25_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w25_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w4_nb5_v5.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w5_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w5_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w5_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w5_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w5_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w5_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w5_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w5_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w5_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w5_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w5_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/test_sax_w5_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_labels.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_normalized.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w10_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w10_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w10_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w10_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w10_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w10_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w10_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w10_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w10_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w10_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w10_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w10_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w15_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w15_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w15_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w15_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w15_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w15_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w15_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w15_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w15_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w15_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w15_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w15_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w20_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w20_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w20_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w20_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w20_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w20_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w20_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w20_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w20_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w20_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w20_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w20_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w25_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w25_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w25_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w25_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w25_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w25_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w25_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w25_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w25_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w25_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w25_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w25_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w4_nb5_v5.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w5_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w5_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w5_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w5_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w5_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w5_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w5_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w5_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w5_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w5_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w5_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset2/train_sax_w5_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_labels.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_normalized.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w10_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w10_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w10_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w10_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w10_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w10_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w10_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w10_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w10_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w10_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w10_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w10_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w15_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w15_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w15_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w15_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w15_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w15_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w15_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w15_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w15_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w15_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w15_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w15_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w20_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w20_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w20_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w20_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w20_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w20_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w20_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w20_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w20_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w20_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w20_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w20_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w25_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w25_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w25_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w25_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w25_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w25_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w25_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w25_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w25_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w25_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w25_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w25_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w4_nb5_v5.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w5_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w5_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w5_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w5_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w5_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w5_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w5_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w5_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w5_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w5_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w5_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/test_sax_w5_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_labels.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_normalized.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w10_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w10_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w10_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w10_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w10_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w10_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w10_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w10_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w10_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w10_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w10_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w10_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w15_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w15_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w15_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w15_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w15_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w15_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w15_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w15_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w15_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w15_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w15_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w15_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w20_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w20_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w20_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w20_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w20_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w20_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w20_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w20_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w20_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w20_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w20_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w20_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w25_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w25_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w25_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w25_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w25_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w25_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w25_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w25_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w25_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w25_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w25_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w25_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w4_nb5_v5.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w5_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w5_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w5_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w5_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w5_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w5_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w5_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w5_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w5_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w5_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w5_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset3/train_sax_w5_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_labels.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_normalized.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w10_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w10_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w10_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w10_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w10_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w10_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w10_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w10_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w10_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w10_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w10_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w10_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w15_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w15_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w15_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w15_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w15_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w15_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w15_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w15_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w15_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w15_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w15_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w15_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w20_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w20_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w20_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w20_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w20_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w20_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w20_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w20_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w20_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w20_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w20_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w20_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w25_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w25_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w25_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w25_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w25_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w25_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w25_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w25_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w25_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w25_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w25_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w25_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w4_nb5_v5.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w5_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w5_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w5_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w5_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w5_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w5_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w5_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w5_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w5_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w5_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w5_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/test_sax_w5_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_labels.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_normalized.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w10_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w10_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w10_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w10_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w10_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w10_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w10_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w10_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w10_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w10_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w10_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w10_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w15_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w15_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w15_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w15_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w15_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w15_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w15_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w15_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w15_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w15_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w15_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w15_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w20_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w20_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w20_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w20_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w20_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w20_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w20_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w20_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w20_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w20_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w20_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w20_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w25_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w25_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w25_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w25_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w25_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w25_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w25_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w25_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w25_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w25_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w25_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w25_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w4_nb5_v5.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w5_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w5_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w5_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w5_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w5_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w5_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w5_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w5_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w5_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w5_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w5_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset4/train_sax_w5_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_labels.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_normalized.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w10_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w10_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w10_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w10_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w10_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w10_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w10_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w10_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w10_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w10_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w10_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w10_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w15_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w15_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w15_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w15_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w15_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w15_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w15_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w15_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w15_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w15_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w15_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w15_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w20_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w20_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w20_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w20_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w20_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w20_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w20_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w20_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w20_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w20_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w20_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w20_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w25_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w25_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w25_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w25_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w25_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w25_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w25_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w25_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w25_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w25_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w25_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w25_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w4_nb5_v5.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w5_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w5_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w5_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w5_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w5_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w5_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w5_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w5_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w5_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w5_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w5_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/test_sax_w5_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_labels.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_normalized.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w10_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w10_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w10_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w10_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w10_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w10_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w10_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w10_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w10_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w10_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w10_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w10_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w15_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w15_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w15_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w15_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w15_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w15_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w15_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w15_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w15_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w15_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w15_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w15_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w20_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w20_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w20_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w20_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w20_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w20_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w20_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w20_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w20_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w20_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w20_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w20_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w25_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w25_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w25_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w25_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w25_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w25_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w25_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w25_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w25_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w25_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w25_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w25_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w4_nb5_v5.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w5_nb11_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w5_nb11_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w5_nb11_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w5_nb5_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w5_nb5_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w5_nb5_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w5_nb7_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w5_nb7_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w5_nb7_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w5_nb9_v4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w5_nb9_v6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw1_datasets/dataset5/train_sax_w5_nb9_v8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/hw2_main.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/process_data_sax.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/test_output/results_dataset1_kNN_w4_nb5_a5_s2036.14_e2036.15.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/test_output/results_dataset1_kNN_w4_nb5_a5_s2112.56_e2112.57.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/test_output/results_dataset1_kNN_w4_nb5_a5_s2129.15_e2129.16.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/test_output/results_dataset1_kNN_w4_nb5_a5_s2327.26_e2327.27.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/test_output/results_dataset1_kNN_w4_nb5_a5_s2328.33_e2328.34.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/test_output/results_dataset2_kNN_w4_nb5_a5_s2328.33_e2328.35.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/test_output/results_dataset3_kNN_w4_nb5_a5_s2328.33_e2328.37.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/test_output/results_dataset4_kNN_w4_nb5_a5_s2328.33_e2328.38.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/test_output/results_dataset5_kNN_w4_nb5_a5_s2328.33_e2328.40.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS687/HW2_Motif_Classification/test_validation.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CS688" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Drug_Activity_Prediction" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/KNN_with_amazonreviews" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pycon-pandas-tutorial" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/statistical-learning" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testingsomestuff.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/programming.iml" afterPath="$PROJECT_DIR$/.idea/programming.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="programming.iws" />
@@ -925,94 +25,52 @@
     <favorites_list name="programming" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="ToSAX.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/HW2_Motif_Classification/ToSAX.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="2000">
-                  <caret line="114" column="25" lean-forward="false" selection-start-line="114" selection-start-column="25" selection-end-line="114" selection-end-column="25" />
-                  <folding>
-                    <element signature="e#0#18#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="BagOfPatterns.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/HW2_Motif_Classification/BagOfPatterns.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-140">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding>
-                    <element signature="e#0#19#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="data_validation.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/../../Drug_Activity_Prediction/data_validation.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="8400">
-                  <caret line="420" column="0" lean-forward="false" selection-start-line="420" selection-start-column="0" selection-end-line="420" selection-end-column="0" />
-                  <folding>
-                    <element signature="e#0#19#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/../../Drug_Activity_Prediction/main.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="810">
-                  <caret line="209" column="25" lean-forward="false" selection-start-line="209" selection-start-column="25" selection-end-line="209" selection-end-column="25" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="hw2_main.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/HW2_Motif_Classification/hw2_main.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="440">
-                  <caret line="138" column="0" lean-forward="false" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
-                  <folding>
-                    <element signature="e#0#18#0" expanded="true" />
-                    <element signature="e#389#1188#0" expanded="false" />
-                    <element signature="e#1236#1549#0" expanded="false" />
-                    <element signature="e#1631#1962#0" expanded="false" />
-                    <element signature="e#2026#2818#0" expanded="false" />
-                    <element signature="e#2887#3127#0" expanded="false" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="output_validation.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/HW2_Motif_Classification/output_validation.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="620">
-                  <caret line="62" column="16" lean-forward="false" selection-start-line="62" selection-start-column="16" selection-end-line="62" selection-end-column="16" />
-                  <folding>
-                    <element signature="e#0#18#0" expanded="true" />
-                    <element signature="e#425#1224#0" expanded="false" />
-                    <element signature="e#1272#1585#0" expanded="false" />
-                    <element signature="e#1667#1998#0" expanded="false" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="data_validation.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Drug_Activity_Prediction/data_validation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6610">
+              <caret line="386" column="0" lean-forward="false" selection-start-line="386" selection-start-column="0" selection-end-line="386" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="output_validation.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/output_validation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_validation.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_validation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Drug_Activity_Prediction/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="209" column="25" lean-forward="false" selection-start-line="209" selection-start-column="25" selection-end-line="209" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -1071,10 +129,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="motif_discovery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HW2_Motif_Classification" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1351,7 +405,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08778424" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -1413,17 +467,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HW2_Motif_Classification/ToSAX.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/KNN_with_amazonreviews/main.py" />
     <entry file="file://$PROJECT_DIR$/Drug_Activity_Prediction/1474246156_56856_test.txt" />
     <entry file="file://$PROJECT_DIR$/Drug_Activity_Prediction/1474246156_5639381_train_drugs.txt" />
     <entry file="file://$PROJECT_DIR$/pycon-pandas-tutorial/build/BUILD.py" />
@@ -1470,10 +513,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HW2_Motif_Classification/hw2_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="138" column="0" lean-forward="false" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HW2_Motif_Classification/BagOfPatterns.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HW2_Motif_Classification/ToSAX.py" />
+    <entry file="file://$PROJECT_DIR$/HW2_Motif_Classification/output_validation.py" />
     <entry file="file://$PROJECT_DIR$/../../Drug_Activity_Prediction/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
@@ -1484,58 +544,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../Drug_Activity_Prediction/data_validation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8400">
-          <caret line="420" column="0" lean-forward="false" selection-start-line="420" selection-start-column="0" selection-end-line="420" selection-end-column="0" />
+        <state relative-caret-position="6610">
+          <caret line="386" column="0" lean-forward="false" selection-start-line="386" selection-start-column="0" selection-end-line="386" selection-end-column="0" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HW2_Motif_Classification/hw2_main.py">
+    <entry file="file://$PROJECT_DIR$/test_validation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="138" column="0" lean-forward="false" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-            <element signature="e#389#1188#0" expanded="false" />
-            <element signature="e#1236#1549#0" expanded="false" />
-            <element signature="e#1631#1962#0" expanded="false" />
-            <element signature="e#2026#2818#0" expanded="false" />
-            <element signature="e#2887#3127#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HW2_Motif_Classification/BagOfPatterns.py">
+    <entry file="file://$PROJECT_DIR$/output_validation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-140">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HW2_Motif_Classification/ToSAX.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2000">
-          <caret line="114" column="25" lean-forward="false" selection-start-line="114" selection-start-column="25" selection-end-line="114" selection-end-column="25" />
-          <folding>
             <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HW2_Motif_Classification/output_validation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="62" column="16" lean-forward="false" selection-start-line="62" selection-start-column="16" selection-end-line="62" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-            <element signature="e#425#1224#0" expanded="false" />
-            <element signature="e#1272#1585#0" expanded="false" />
-            <element signature="e#1667#1998#0" expanded="false" />
           </folding>
         </state>
       </provider>
